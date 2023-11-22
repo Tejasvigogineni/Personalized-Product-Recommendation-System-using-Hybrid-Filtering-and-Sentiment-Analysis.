@@ -1,2 +1,2 @@
 # Personalized-Product-Recommendation-System-using-Hybrid-Filtering-and-Sentiment-Analysis.
-It is a machine learning project focused on the fundamental operation of the system which will involve taking into account a variety of variables, including user preferences, previous interactions, product popularity, and user similarity.
+It is a machine learning project focused on the fundamental operation of the system which will involve taking into account a variety of variables, including user preferences, previous interactions, product popularity, and user similarity.With this it provides acustomized shopping experience that anticipates the best products for every customer, in linewith their particular traits and interests.
